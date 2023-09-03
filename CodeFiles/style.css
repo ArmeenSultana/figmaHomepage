@@ -1,0 +1,116 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: inter;
+}
+
+.freeshipping {
+  padding: 5px 0;
+  background: #e485da;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.logo {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: #ffbbf8;
+}
+.logo p {
+  color: rgba(255, 0, 168, 0.72);
+  font-family: JejuHallasan;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 0;
+}
+.diamond {
+  display: block; /* Remove any inline spacing  */
+  margin: 0 auto;
+}
+nav {
+  background: #e485da;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  font-size: 22px;
+  padding: 10px 0;
+}
+
+.row {
+  background-color: white;
+  padding: 50px;
+  margin: 20px;
+  margin-bottom: 0;
+}
+.row img {
+  /* width: 467px;
+	height: 433px; */
+  width: 100%;
+  aspect-ratio: 1.2;
+}
+
+.headings {
+  background-color: #e485da;
+  text-align: center;
+  font-size: 20px;
+  display: block;
+}
+.head-1 {
+  font-size: 25px;
+}
+.head-2 {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.btn-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.Cart-btn {
+  border: 2px solid #e485da;
+  color: #e485da;
+  border-radius: 0.8rem;
+  font-size: 23px;
+  padding: 10px 20px;
+  background-color: white;
+}
+
+.menu-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.about {
+  background: #ffbbf8;
+  margin-bottom: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+}
+
+.aboutUs-desc {
+  color: #97228b;
+  font-size: 18px;
+  text-align: center;
+  margin-left: 30px;
+}
+.abo {
+  background-color: #ffbbf8;
+  display: flex;
+  justify-content: space-between;
+}
+.socialsites {
+  display: flex;
+  justify-content: center;
+}
+.socialsites img {
+  width: 30px;
+  margin: 20px;
+}
